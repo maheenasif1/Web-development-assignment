@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.landing-page {
+    background: #D7F5DC;
+
+}
+
+header {
+    display: flex;
+    width: 1440;
+    height: 80;
+    justify-content: space-between;
+    opacity: 1;
+    padding-top: 5px;
+    padding-right: 100px;
+    padding-bottom: 5px;
+    padding-left: 100px;
+}
+
+.logo img {
+    width: 176;
+    height: 50;
+    opacity: 1;
+    gap: 10px;
+    padding: 10px;
+}
+
+nav {
+    width: 639;
+    height: 44;
+    opacity: 1;
+    gap: 30px;
+}
+
+.Nav1 {
+    width: 118;
+    height: 44;
+    opacity: 1;
+    gap: 10px;
+    padding: 10px;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-decoration: none;
+    color: black;
+}
+
+
+.Nav2 {
+    width: 93;
+    height: 44;
+    opacity: 1;
+    gap: 10px;
+    padding: 10px;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-decoration: none;
+    color: black;
+}
+
+
+.Nav3 {
+    width: 110;
+    height: 44;
+    opacity: 1;
+    gap: 10px;
+    padding: 10px;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-decoration: none;
+    color: black;
+}
+
+.login-btn {
+    width: 93;
+    height: 44;
+    opacity: 1;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 1px;
+    border: 1px solid #20B15A;
+    background: #D7F5DC;
+}
+
+.register-btn {
+    width: 105;
+    height: 44;
+    opacity: 1;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background: #20B15A;
+    color: white;
+}
+
+.landing-page {
+    margin: 0;
+    padding: 0;
+}
+
+.Hero-Section {
+
+    width: 550;
+    height: 366;
+    opacity: 1;
+    margin-top: 153px;
+    margin-left: 100px;
+    gap: 37px;
+
+}
+
+.Hero-Section h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 50px;
+    line-height: 65px;
+    letter-spacing: 0%;
+    width: 550;
+    height: 195;
+    opacity: 1;
+}
+
+.Hero-Section p {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 472;
+    height: 54;
+    opacity: 1;
+}
+
+.Hero-Section button {
+    opacity: 1;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    gap: 10px;
+    border-radius: 16px;
+    background: #20B15A;
+    border: none;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 115;
+    height: 30;
+    opacity: 1;
+    color: #FFFFFF;
+}
+.hero-flex{
+    display: flex;
+}
+.Hero-img{
+    width: 684;
+height: 564;
+opacity: 1;
+top: 119px;
+left: 666px;
+}
+.SEO{
+    width: 1440;
+height: 120;
+opacity: 1;
+top: 683px;
+background: #F8FFF9;
+
+}
+.SEO Section{
+width: 1181.93017578125;
+height: 31.36347770690918;
+opacity: 1;
+padding-top: 44px;
+padding-left: 115px;
+
+
+}
+.Google-logo{
+width: 88.71074676513672;
+height: 29.108213424682617;
+opacity: 1;
+padding-top: 7.34px;
+padding-left: 54.95px;
+
+
+}
+.Trello-logo{
+width: 141.9372100830078;
+height: 29.108213424682617;
+opacity: 1;
+padding-top: 7.34px;
+padding-left: 54.95px;
+
+}
+.monday-logo{
+width: 28.863401412963867;
+height: 14.577086448669434;
+opacity: 1;
+padding-top: 7.34px;
+padding-left: 54.95px;
+
+}
+.slack-logo{
+width: 114.2899169921875;
+height: 29.108213424682617;
+opacity: 1;
+padding-top: 7.34px;
+padding-left: 54.95px;
+
+}
+.notion{
+width: 80.1143569946289;
+height: 29.108213424682617;
+opacity: 1;
+padding-top: 7.34;
+padding-left: 54.95px;
+
+}
